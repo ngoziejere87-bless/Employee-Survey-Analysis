@@ -23,9 +23,15 @@ The dataset contains **14,725 survey records**, consisting of:
 ## Dashboard Pages
 
 ### Page 1: Main Employee Survey Dashboard
+
+[Employee Survey Main Dashboard](Employee_Survey_Main_Dashboard.jpg)
+
 This page provides an overview of the survey, including response totals, employee satisfaction, recognition, workplace friendship and interactive filters.
 
 ### Page 2: Detailed Departmental Analysis
+
+[Employee Survey Departmental Analysis](Employee_Survey_Departmental_Analysis.jpg)
+
 This page compares negative employee responses across departments to identify areas that may require management attention.
 
 ## Key Findings
